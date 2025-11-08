@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": 3,
+    "titulo": "Limpar quarto",
+    "descricao": "Organizar mesa e guardar roupas",
+    "prioridade": "baixa",
+    "concluida": true,
+    "data_criacao": "01-11-2025",
+    "data_conclusao": "05-11-2025"
+  }
+]
